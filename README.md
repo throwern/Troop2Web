@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## What Does a Scout Do in Troop 2?
+Weekly Troop/Patrol Meetings
+Every Tuesday, 7:30 p.m. - 8:45 p.m.
+Meetings are held at Peoples Church - Interdenominational.
+Scouts work on rank advancement and merit badge activities.
+Each Tuesday meeting includes scout-led Patrol break-out sessions.
+Weekly meetings are not held during summer break.
 
-You can use the [editor on GitHub](https://github.com/throwern/Troop2Web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Monthly Campouts
+Troop 2 loves to camp. September through May, each month features a weekend campout or other activity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Service Projects
+In addition to weekly meetings and monthly camp activities, Troop 2 scouts develop a sense of citizenship and strengthen their community by participating in special Service Projects throughout the year.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/throwern/Troop2Web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Courts of Honor
+Troop 2 conducts a Court of Honor once each quarter to recognize Scout advancements and awards. The Court of Honor is a public ceremony, and is a chance for the Scouts to be recognized for their achievements. Families and all other interested individuals are encouraged to attend.
